@@ -1,8 +1,6 @@
 ---
 title: "Test Drive"
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 ```{r}
 print('Hello, world')

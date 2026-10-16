@@ -1,14 +1,8 @@
----
-title: "Test Drive"
-output:
-  html_document:
-    keep_md: true
----
+Test Drive
+================
 
 ``` r
 print('Hello, world')
 ```
 
-```
-## [1] "Hello, world"
-```
+    ## [1] "Hello, world"
