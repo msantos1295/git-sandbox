@@ -1,7 +1,0 @@
----
-title: "Test Drive"
-output: github_document
----
-```{r}
-print('Hello, world')
-```
