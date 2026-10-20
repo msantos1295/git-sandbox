@@ -3,7 +3,7 @@
 #' output: github_document
 #' ---
 #'
-#' A small analysis for practicing the git workflow. Each section is short
+#' A practice analysis for employing the git workflow. Each section is short
 #' and independent, so it's easy to tweak one piece per commit.
 #'
 #' Setup: install any required packages that aren't already installed
